@@ -1,0 +1,6 @@
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.exe.config
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.exe
+c:\users\alunos\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.pdb
